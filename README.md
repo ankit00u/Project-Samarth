@@ -1,11 +1,14 @@
 🌾 Project Samarth: Data-Driven Insight Platform
 🔍 Empowering agricultural intelligence through data analytics and visualization.
-📖 Overview
+
+📖 **OVERVIEW**
 
 Project Samarth is a data-centric analytics platform built to integrate and visualize datasets from the Ministry of Agriculture & Farmers Welfare and the India Meteorological Department (IMD).
 The project leverages modern Python-based tools to uncover patterns, analyze trends, and present findings through an interactive Streamlit web dashboard.
 
 By connecting agricultural and climate data, the project provides valuable insights that can support data-backed policy-making and sustainable development strategies.
+
+Open the APP: https://ankit-dey-project-samarth1.streamlit.app/ 
 
 ⚙️ Technologies Used
 
