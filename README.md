@@ -73,7 +73,6 @@ Haldia Institute of Technology
 
 📧 Email: ankit.dey.pc@gmail.com
 
-💻 GitHub: github.com/ankit00u/
 
 🌟 Future Scope
 
