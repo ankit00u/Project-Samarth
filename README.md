@@ -1,5 +1,8 @@
-🌾 Project Samarth: Data-Driven Insight Platform
+🌾 **Project Samarth: Data-Driven Insight Platform**
 🔍 Empowering agricultural intelligence through data analytics and visualization.
+
+**NOTE**: THE APP MIGHT BE IN SLEEP MDOE DUE TO PROLONGED INACTIVITY. PEASE CLICK THE OPTION "WAKE THE APP BACK UP" to proceed.
+
 
 📖 **OVERVIEW**
 
